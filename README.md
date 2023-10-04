@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Devyaansh Dwivedi, a passionate MERN Stack developer from India with a burning curiosity for learning. I specialize in building dynamic web applications using MongoDB, Express.js, React, and Node.js. Beyond the MERN stack, I'm equally comfortable with Java and Python, using them for versatile solutions. Lately, I've been delving into Flutter for Android app development. I thrive on continuous learning and love exploring new tech horizons. When I'm not coding, you'll find me tinkering with hardware or savoring a cup of chai. Let's connect and collaborate on exciting projects!
+### Hi there 👋 
+I'm Devyaansh Dwivedi, a passionate MERN Stack developer from India with a burning curiosity for learning. I specialize in building dynamic web applications using MongoDB, Express.js, React, and Node.js. Beyond the MERN stack, I'm equally comfortable with Java and Python, using them for versatile solutions. Lately, I've been delving into Flutter for Android app development. I thrive on continuous learning and love exploring new tech horizons. When I'm not coding, you'll find me tinkering with hardware or savoring a cup of chai. Let's connect and collaborate on exciting projects!
 
 <!--
 **devyaanshdwivedi/devyaanshdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
